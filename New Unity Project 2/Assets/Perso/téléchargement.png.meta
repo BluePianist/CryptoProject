@@ -1,0 +1,2277 @@
+fileFormatVersion: 2
+guid: fd7efb187b6c81546a9916da709c3f0f
+timeCreated: 1428019815
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "t\xE9l\xE9chargement_0"
+    21300002: "t\xE9l\xE9chargement_1"
+    21300004: "t\xE9l\xE9chargement_2"
+    21300006: "t\xE9l\xE9chargement_3"
+    21300008: "t\xE9l\xE9chargement_4"
+    21300010: "t\xE9l\xE9chargement_5"
+    21300012: "t\xE9l\xE9chargement_6"
+    21300014: "t\xE9l\xE9chargement_7"
+    21300016: "t\xE9l\xE9chargement_8"
+    21300018: "t\xE9l\xE9chargement_9"
+    21300020: "t\xE9l\xE9chargement_10"
+    21300022: "t\xE9l\xE9chargement_11"
+    21300024: "t\xE9l\xE9chargement_12"
+    21300026: "t\xE9l\xE9chargement_13"
+    21300028: "t\xE9l\xE9chargement_14"
+    21300030: "t\xE9l\xE9chargement_15"
+    21300032: "t\xE9l\xE9chargement_16"
+    21300034: "t\xE9l\xE9chargement_17"
+    21300036: "t\xE9l\xE9chargement_18"
+    21300038: "t\xE9l\xE9chargement_19"
+    21300040: "t\xE9l\xE9chargement_20"
+    21300042: "t\xE9l\xE9chargement_21"
+    21300044: "t\xE9l\xE9chargement_22"
+    21300046: "t\xE9l\xE9chargement_23"
+    21300048: "t\xE9l\xE9chargement_24"
+    21300050: "t\xE9l\xE9chargement_25"
+    21300052: "t\xE9l\xE9chargement_26"
+    21300054: "t\xE9l\xE9chargement_27"
+    21300056: "t\xE9l\xE9chargement_28"
+    21300058: "t\xE9l\xE9chargement_29"
+    21300060: "t\xE9l\xE9chargement_30"
+    21300062: "t\xE9l\xE9chargement_31"
+    21300064: "t\xE9l\xE9chargement_32"
+    21300066: "t\xE9l\xE9chargement_33"
+    21300068: "t\xE9l\xE9chargement_34"
+    21300070: "t\xE9l\xE9chargement_35"
+    21300072: "t\xE9l\xE9chargement_36"
+    21300074: "t\xE9l\xE9chargement_37"
+    21300076: "t\xE9l\xE9chargement_38"
+    21300078: "t\xE9l\xE9chargement_39"
+    21300080: "t\xE9l\xE9chargement_40"
+    21300082: "t\xE9l\xE9chargement_41"
+    21300084: "t\xE9l\xE9chargement_42"
+    21300086: "t\xE9l\xE9chargement_43"
+    21300088: "t\xE9l\xE9chargement_44"
+    21300090: "t\xE9l\xE9chargement_45"
+    21300092: "t\xE9l\xE9chargement_46"
+    21300094: "t\xE9l\xE9chargement_47"
+    21300096: "t\xE9l\xE9chargement_48"
+    21300098: "t\xE9l\xE9chargement_49"
+    21300100: "t\xE9l\xE9chargement_50"
+    21300102: "t\xE9l\xE9chargement_51"
+    21300104: "t\xE9l\xE9chargement_52"
+    21300106: "t\xE9l\xE9chargement_53"
+    21300108: "t\xE9l\xE9chargement_54"
+    21300110: "t\xE9l\xE9chargement_55"
+    21300112: "t\xE9l\xE9chargement_56"
+    21300114: "t\xE9l\xE9chargement_57"
+    21300116: "t\xE9l\xE9chargement_58"
+    21300118: "t\xE9l\xE9chargement_59"
+    21300120: "t\xE9l\xE9chargement_60"
+    21300122: "t\xE9l\xE9chargement_61"
+    21300124: "t\xE9l\xE9chargement_62"
+    21300126: "t\xE9l\xE9chargement_63"
+    21300128: "t\xE9l\xE9chargement_64"
+    21300130: "t\xE9l\xE9chargement_65"
+    21300132: "t\xE9l\xE9chargement_66"
+    21300134: "t\xE9l\xE9chargement_67"
+    21300136: "t\xE9l\xE9chargement_68"
+    21300138: "t\xE9l\xE9chargement_69"
+    21300140: "t\xE9l\xE9chargement_70"
+    21300142: "t\xE9l\xE9chargement_71"
+    21300144: "t\xE9l\xE9chargement_72"
+    21300146: "t\xE9l\xE9chargement_73"
+    21300148: "t\xE9l\xE9chargement_74"
+    21300150: "t\xE9l\xE9chargement_75"
+    21300152: "t\xE9l\xE9chargement_76"
+    21300154: "t\xE9l\xE9chargement_77"
+    21300156: "t\xE9l\xE9chargement_78"
+    21300158: "t\xE9l\xE9chargement_79"
+    21300160: "t\xE9l\xE9chargement_80"
+    21300162: "t\xE9l\xE9chargement_81"
+    21300164: "t\xE9l\xE9chargement_82"
+    21300166: "t\xE9l\xE9chargement_83"
+    21300168: "t\xE9l\xE9chargement_84"
+    21300170: "t\xE9l\xE9chargement_85"
+    21300172: "t\xE9l\xE9chargement_86"
+    21300174: "t\xE9l\xE9chargement_87"
+    21300176: "t\xE9l\xE9chargement_88"
+    21300178: "t\xE9l\xE9chargement_89"
+    21300180: "t\xE9l\xE9chargement_90"
+    21300182: "t\xE9l\xE9chargement_91"
+    21300184: "t\xE9l\xE9chargement_92"
+    21300186: "t\xE9l\xE9chargement_93"
+    21300188: "t\xE9l\xE9chargement_94"
+    21300190: "t\xE9l\xE9chargement_95"
+    21300192: "t\xE9l\xE9chargement_96"
+    21300194: "t\xE9l\xE9chargement_97"
+    21300196: "t\xE9l\xE9chargement_98"
+    21300198: "t\xE9l\xE9chargement_99"
+    21300200: "t\xE9l\xE9chargement_100"
+    21300202: "t\xE9l\xE9chargement_101"
+    21300204: "t\xE9l\xE9chargement_102"
+    21300206: "t\xE9l\xE9chargement_103"
+    21300208: "t\xE9l\xE9chargement_104"
+    21300210: "t\xE9l\xE9chargement_105"
+    21300212: "t\xE9l\xE9chargement_106"
+    21300214: "t\xE9l\xE9chargement_107"
+    21300216: "t\xE9l\xE9chargement_108"
+    21300218: "t\xE9l\xE9chargement_109"
+    21300220: "t\xE9l\xE9chargement_110"
+    21300222: "t\xE9l\xE9chargement_111"
+    21300224: "t\xE9l\xE9chargement_112"
+    21300226: "t\xE9l\xE9chargement_113"
+    21300228: "t\xE9l\xE9chargement_114"
+    21300230: "t\xE9l\xE9chargement_115"
+    21300232: "t\xE9l\xE9chargement_116"
+    21300234: "t\xE9l\xE9chargement_117"
+    21300236: "t\xE9l\xE9chargement_118"
+    21300238: "t\xE9l\xE9chargement_119"
+    21300240: "t\xE9l\xE9chargement_120"
+    21300242: "t\xE9l\xE9chargement_121"
+    21300244: "t\xE9l\xE9chargement_122"
+    21300246: "t\xE9l\xE9chargement_123"
+    21300248: "t\xE9l\xE9chargement_124"
+    21300250: "t\xE9l\xE9chargement_125"
+    21300252: "t\xE9l\xE9chargement_126"
+    21300254: "t\xE9l\xE9chargement_127"
+    21300256: "t\xE9l\xE9chargement_128"
+    21300258: "t\xE9l\xE9chargement_129"
+    21300260: "t\xE9l\xE9chargement_130"
+    21300262: "t\xE9l\xE9chargement_131"
+    21300264: "t\xE9l\xE9chargement_132"
+    21300266: "t\xE9l\xE9chargement_133"
+    21300268: "t\xE9l\xE9chargement_134"
+    21300270: "t\xE9l\xE9chargement_135"
+    21300272: "t\xE9l\xE9chargement_136"
+    21300274: "t\xE9l\xE9chargement_137"
+    21300276: "t\xE9l\xE9chargement_138"
+    21300278: "t\xE9l\xE9chargement_139"
+    21300280: "t\xE9l\xE9chargement_140"
+    21300282: "t\xE9l\xE9chargement_141"
+    21300284: "t\xE9l\xE9chargement_142"
+    21300286: "t\xE9l\xE9chargement_143"
+    21300288: "t\xE9l\xE9chargement_144"
+    21300290: "t\xE9l\xE9chargement_145"
+    21300292: "t\xE9l\xE9chargement_146"
+    21300294: "t\xE9l\xE9chargement_147"
+    21300296: "t\xE9l\xE9chargement_148"
+    21300298: "t\xE9l\xE9chargement_149"
+    21300300: "t\xE9l\xE9chargement_150"
+    21300302: "t\xE9l\xE9chargement_151"
+    21300304: "t\xE9l\xE9chargement_152"
+    21300306: "t\xE9l\xE9chargement_153"
+    21300308: "t\xE9l\xE9chargement_154"
+    21300310: "t\xE9l\xE9chargement_155"
+    21300312: "t\xE9l\xE9chargement_156"
+    21300314: "t\xE9l\xE9chargement_157"
+    21300316: "t\xE9l\xE9chargement_158"
+    21300318: "t\xE9l\xE9chargement_159"
+    21300320: "t\xE9l\xE9chargement_160"
+    21300322: "t\xE9l\xE9chargement_161"
+    21300324: "t\xE9l\xE9chargement_162"
+    21300326: "t\xE9l\xE9chargement_163"
+    21300328: "t\xE9l\xE9chargement_164"
+    21300330: "t\xE9l\xE9chargement_165"
+    21300332: "t\xE9l\xE9chargement_166"
+    21300334: "t\xE9l\xE9chargement_167"
+    21300336: "t\xE9l\xE9chargement_168"
+    21300338: "t\xE9l\xE9chargement_169"
+    21300340: "t\xE9l\xE9chargement_170"
+    21300342: "t\xE9l\xE9chargement_171"
+    21300344: "t\xE9l\xE9chargement_172"
+    21300346: "t\xE9l\xE9chargement_173"
+    21300348: "t\xE9l\xE9chargement_174"
+    21300350: "t\xE9l\xE9chargement_175"
+    21300352: "t\xE9l\xE9chargement_176"
+    21300354: "t\xE9l\xE9chargement_177"
+    21300356: "t\xE9l\xE9chargement_178"
+    21300358: "t\xE9l\xE9chargement_179"
+    21300360: "t\xE9l\xE9chargement_180"
+    21300362: "t\xE9l\xE9chargement_181"
+    21300364: "t\xE9l\xE9chargement_182"
+    21300366: "t\xE9l\xE9chargement_183"
+    21300368: "t\xE9l\xE9chargement_184"
+    21300370: "t\xE9l\xE9chargement_185"
+    21300372: "t\xE9l\xE9chargement_186"
+    21300374: "t\xE9l\xE9chargement_187"
+    21300376: "t\xE9l\xE9chargement_188"
+    21300378: "t\xE9l\xE9chargement_189"
+    21300380: "t\xE9l\xE9chargement_190"
+    21300382: "t\xE9l\xE9chargement_191"
+    21300384: "t\xE9l\xE9chargement_192"
+    21300386: "t\xE9l\xE9chargement_193"
+    21300388: "t\xE9l\xE9chargement_194"
+    21300390: "t\xE9l\xE9chargement_195"
+    21300392: "t\xE9l\xE9chargement_196"
+    21300394: "t\xE9l\xE9chargement_197"
+    21300396: "t\xE9l\xE9chargement_198"
+    21300398: "t\xE9l\xE9chargement_199"
+    21300400: "t\xE9l\xE9chargement_200"
+    21300402: "t\xE9l\xE9chargement_201"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "t\xE9l\xE9chargement_0"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2049
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_1"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2049
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_2"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_3"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2049
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_4"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2049
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_5"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2049
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_6"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2049
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_7"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1985
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_8"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1985
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_9"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1985
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_10"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_11"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_12"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_13"
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1985
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_14"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1921
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_15"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1921
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_16"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1921
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_17"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1921
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_18"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1921
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_19"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1921
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_20"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1921
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_21"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1857
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_22"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1857
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_23"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1857
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_24"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1857
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_25"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1857
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_26"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1857
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_27"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1857
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_28"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1792
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_29"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1791
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_30"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1791
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_31"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1791
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_32"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1791
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_33"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1791
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_34"
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1791
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_35"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1791
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_36"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1729
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_37"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_38"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_39"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1729
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_40"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_41"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_42"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_43"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1729
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_44"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1665
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_45"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1665
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_46"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1666
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_47"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1666
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_48"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1666
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_49"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1666
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_50"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1666
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_51"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1666
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_52"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1601
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_53"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1601
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_54"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1601
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_55"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1601
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_56"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1601
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_57"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1601
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_58"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1601
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_59"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1601
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_60"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1537
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_61"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1537
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_62"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1536
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_63"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1535
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_64"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1536
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_65"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1537
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_66"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1536
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_67"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1535
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_68"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1536
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_69"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1473
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_70"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1473
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_71"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1474
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_72"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1474
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_73"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1473
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_74"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1473
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_75"
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1473
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_76"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1473
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_77"
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1473
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_78"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1409
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_79"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1409
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_80"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1408
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_81"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1408
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_82"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1408
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_83"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1409
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_84"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1408
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_85"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1408
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_86"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1408
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_87"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1345
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_88"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1345
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_89"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1346
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_90"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1346
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_91"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1345
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_92"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1345
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_93"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1345
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_94"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1345
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_95"
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1345
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_96"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1281
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_97"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1281
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_98"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1281
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_99"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1281
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_100"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1281
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_101"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1281
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_102"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1217
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_103"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1217
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_104"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1217
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_105"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1217
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_106"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1217
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_107"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1217
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_108"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1153
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_109"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_110"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_111"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1153
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_112"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1153
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_113"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1153
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_114"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1090
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_115"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1090
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_116"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1090
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_117"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1090
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_118"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1090
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_119"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1090
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_120"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1025
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_121"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1025
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_122"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1024
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_123"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1024
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_124"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1024
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_125"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_126"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1024
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_127"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1024
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_128"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1024
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_129"
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1024
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_130"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1024
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_131"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1024
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_132"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1024
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_133"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 961
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_134"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_135"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 961
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_136"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 961
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_137"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 961
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_138"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_139"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_140"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 961
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_141"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 961
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_142"
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 961
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_143"
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 961
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_144"
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_145"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 961
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_146"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 897
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_147"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_148"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_149"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_150"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 897
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_151"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 897
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_152"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 897
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_153"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_154"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_155"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_156"
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_157"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 897
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_158"
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_159"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 833
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_160"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 833
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_161"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 833
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_162"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 833
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_163"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 833
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_164"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_165"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_166"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 833
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_167"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 833
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_168"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 833
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_169"
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 833
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_170"
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 833
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_171"
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 833
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_172"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 768
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_173"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 769
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_174"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_175"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 769
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_176"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 770
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_177"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 767
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_178"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_179"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_180"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_181"
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 641
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_182"
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 641
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_183"
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 641
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_184"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 449
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_185"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 449
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_186"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 449
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_187"
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 449
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_188"
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 449
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_189"
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 449
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_190"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 257
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_191"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 257
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_192"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_193"
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 257
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_194"
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 249
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_195"
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 257
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_196"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 65
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_197"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_198"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 65
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_199"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_200"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 65
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "t\xE9l\xE9chargement_201"
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 65
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
